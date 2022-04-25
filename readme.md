@@ -1,3 +1,5 @@
+![header](/header.png)
+
 ## 👋 Hello, we are Socket Supply Co.
 
 We are here to make the Web a [free and open platform](https://socketsypply.co/blog/hello-world).
