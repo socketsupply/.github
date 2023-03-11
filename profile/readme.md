@@ -9,4 +9,4 @@ Imagine as a web developer, that the Cloud was completely optional. Imagine you 
 
 This would take your biggest operational cost to zero. It would mean that there was no middleman between you and your users. And it would reduce a mountain of complexity. 
 
-Socket Supply Co. makes it possible for *Web developers* to build desktop and mobile apps for any OS - apps that can connect users directly with or without any server infrastructure requirements.
+Socket Supply Co. makes it possible for *Web developers* to build desktop and mobile apps for any OS - apps that can connect users directly without any server infrastructure requirements.
