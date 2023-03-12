@@ -7,6 +7,6 @@
 
 <br/>
 
-Imagine as a web developer, that the Cloud was completely optional. Imagine you could just build beautiful UIs and the people that used them could still communicate reliably with each other. We're not taking about outsourcing the problem, we're talking about solving the problem.
+Imagine as a web developer, that the Cloud was completely optional. Imagine you could just build beautiful UIs and the people that used them could still communicate reliably with each other. We're not talking about outsourcing the problem, we're talking about solving the problem.
 
 This would take your biggest operational cost to zero. It would mean that there was no middleman between you and your users. And it would reduce a mountain of complexity. Socket Supply Co. makes it possible for *Web developers* to build desktop and mobile apps for any OS - apps that can connect users directly without any server infrastructure requirements.
